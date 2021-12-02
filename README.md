@@ -1,4 +1,4 @@
-# Laser-Tag
+# Proyecto Laser
 
 Este es un repositiorio de archivos para la instalación de PAV 3 campos trilnick
 de Alejo Cortiñaz. 
